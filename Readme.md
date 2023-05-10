@@ -5,7 +5,7 @@ Web có các chức năng như:
  - Mua hàng, thêm vào giỏ hàng, thanh toán, theo dõi giao hàng.
  - Quản lý người dùng, thêm sửa xóa sản phẩm, quản lý doanh thu
  
-bcách chạy code:
+cách chạy code:
 - Bước 1:
 ```
 git clone 
